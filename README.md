@@ -1,3 +1,6 @@
+# app-parqueadero-angular
+Primer app angular creada para un sistema de parqueadero
+
 # AppParqueadero
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
